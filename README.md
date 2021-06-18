@@ -5,4 +5,5 @@ I realy like to be a part of a project and watch him grow and evolved. I'm looki
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julien-Oclock)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julien-Oclock&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
