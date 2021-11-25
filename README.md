@@ -4,10 +4,10 @@
 
 I'm Julien form France, and i create websites with JavaScript. I realy enjoy working with JavaScript and its environment and i want to go further with it. I'm currently more confortable with the backend side of a website but i have started to learn React from few weeks and i have to say that i really enjoy working with it. I have also some skills in the database area. I've learned during my studies the PotgreSQL language and a little bit of MongoDB. I realy like to be a part of a project and watch him grow and evolved. I'm looking for a company to work with during my next year of studies.
 
-Skills:  JS / HTML / CSS / Node.js / PostgreSQL / 
+Skills:  JS / HTML / CSS / Node.js / PostgreSQL / Boostrap /
 
 - 🔭 I’m currently working on personal stuff 
-- 🌱 I’m currently learning React and React native 
+- 🌱 I’m currently learning React and PHP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Julien-Oclock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julien-levieux-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BibiHibou)  
