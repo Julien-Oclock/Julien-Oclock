@@ -6,7 +6,7 @@ I'm Julien form France, and i create websites with JavaScript. I realy enjoy wor
 
 Skills:  JS / HTML / CSS / Node.js / PostgreSQL / Material UI / Python / Mapbox /
 
-- 🔭 I’m currently working at Drotek Events (https://events.drotek.com/)
+- 🔭 I’m currently working at Drotek Events as software develloper (https://events.drotek.com/)
 - 🌱 I’m currently learning Python
 
 
