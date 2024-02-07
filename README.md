@@ -4,7 +4,7 @@
 
 I'm Julien form France, and i create websites with JavaScript. I realy enjoy working with JavaScript and its environment and i want to go further with it. I'm currently more confortable with the backend side of a website but i have started to learn React from few month and i have to say that i really enjoy working with it.
 
-Skills:  JS / HTML / CSS / Node.js / PostgreSQL / Material UI / Python / Mapbox /
+Skills:  JS / HTML / CSS / Node.js / PostgreSQL / Material UI / Python / Mapbox / REact / Angular / Mqtt
 
 - 🔭 I’m currently working at Drotek Events as software develloper (https://events.drotek.com/)
 - 🌱 I’m currently learning Python
